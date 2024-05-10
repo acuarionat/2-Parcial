@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Texto.css"
 
 const Texto = () => {
   return (

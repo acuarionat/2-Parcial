@@ -1,10 +1,11 @@
-import React from 'react'
+import React from 'react';
+import "./Video.css"
 
 const Video = () => {
   return (
     <div className='video'>
-        <img src={"/public/Rectangle.svg"} alt={"ejercicio"} />
-        <div className="play"> <img src={"/public/triangle.svg" }alt={"play"} /> </div>
+        <img className='ejer' src={"/Imagen1.jpg"} alt={"ejercicio"} />
+        <div className='play'> <img src={"/triangle.svg" }alt={"play"} /> </div>
     </div>
   )
 }

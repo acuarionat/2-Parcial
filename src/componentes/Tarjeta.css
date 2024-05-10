@@ -1,0 +1,12 @@
+.tarjeta
+{
+    width:144px;
+    height:186px;
+    border-top-right-radius:10% ;
+    border-bottom-left-radius: 10%;
+    background-color: var(--Plomo);
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+}
